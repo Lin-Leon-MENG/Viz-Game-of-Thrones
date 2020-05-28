@@ -1,0 +1,190 @@
+season,episode,name,emoji,percent
+1,1,Daenerys Targaryen,,12.0
+1,1,Tyrion Lannister,,11.2
+1,1,Bran Stark,,8.8
+1,2,Tyrion Lannister,,18.1
+1,2,Joffrey Baratheon,,12.5
+1,2,Jon Snow,,8.8
+1,3,Arya Stark,,13.5
+1,3,Eddard Stark,,10.2
+1,3,Syrio Forel,,9.9
+1,4,Daenerys Targaryen,,14.7
+1,4,Tyrion Lannister,,12.4
+1,4,Jon Snow,,8.7
+1,5,Renly Baratheon,,14.8
+1,5,Loras Tyrell,,14.6
+1,5,Tyrion Lannister,,9.7
+1,6,Daenerys Targaryen,,18.3
+1,6,Viserys Targaryen,,18.1
+1,6,Tyrion Lannister,,13.1
+1,7,Eddard Stark,,20.7
+1,7,Petyr Baelish,,13.5
+1,7,Daenerys Targaryen,,7.1
+1,8,Khal Drogo,,10.4
+1,8,Tyrion Lannister,,9.4
+1,8,Sansa Stark,,7.9
+1,9,Eddard Stark,,34
+1,9,Joffrey Baratheon,,18
+1,9,Tyrion Lannister,,10.3
+1,10,Daenerys Targaryen,,27.1
+1,10,Joffrey Baratheon,,15.5
+1,10,Arya Stark,,7.2
+2,1,Joffrey Baratheon,,24
+2,1,Tyrion Lannister,,12.8
+2,1,Cersei Lannister,,7.5
+2,2,Tyrion Lannister,,18.1
+2,2,Tyrion Lannister,,18.3
+2,2,Jon Snow,,7.6
+2,2,Theon Greyjoy,,7.3
+2,3,Tyrion Lannister,,16.2
+2,3,Brienne,,11.8
+2,3,Renly Baratheon,,8.2
+2,4,Joffrey Baratheon,,32.6
+2,4,Tyrion Lannister,,16.4
+2,4,Daenerys Targaryen,,6.7
+2,5,Arya Stark,,12.5
+2,5,Daenerys Targaryen,,9.9
+2,5,Renly Baratheon,,9.8
+2,6,Theon Greyjoy,,19.9
+2,6,Joffrey Baratheon,,12.8
+2,6,Jon Snow,,10.5
+2,7,Jon Snow,,15.2
+2,7,Theon Greyjoy,,14
+2,7,Ygritte,,8.2
+2,8,Tyrion Lannister,,14.4
+2,8,Robb Stark,,12.5
+2,8,Theon Greyjoy,,8.7
+2,9,Tyrion Lannister,,34.6
+2,9,Joffrey Baratheon,,11.6
+2,9,Cersei Lannister,,10.9
+2,10,Daenerys Targaryen,,21
+2,10,White Walkers,,12.8
+2,10,Theon Greyjoy,,7.8
+3,1,Daenerys Targaryen,🐉 🐲 👑,18.3
+3,1,Jon Snow,😘,11.1
+3,1,Tyrion Lannister,,11
+3,2,Joffrey Baratheon,,14.6
+3,2,Jaime Lannister,,7.7
+3,2,Bran Stark,,6.7
+3,3,Jaime Lannister,,26.1
+3,3,Daenerys Targaryen,🐉 🐲 👑,11.7
+3,3,Podrick Payne,,7.9
+3,4,Daenerys Targaryen,🐉 🐲 🔥 👑 🙌,56.1
+3,4,Night's Watch,,4.1
+3,4,Jaime Lannister,,4
+3,5,Jon Snow,😘 😉 👌 👏,20.5
+3,5,Daenerys Targaryen,🐲 🐉 🔥,10.5
+3,5,Jaime Lannister,,8
+3,6,Jon Snow,,11.9
+3,6,Daenerys Targaryen,🐉,10.1
+3,6,Joffrey Baratheon,,8.5
+3,7,Daenerys Targaryen,🐉 🐲,15.6
+3,7,Jaime Lannister,🐻,11.8
+3,7,Theon Greyjoy,,9.4
+3,8,Daenerys Targaryen,🐉 🐲,16.7
+3,8,Tyrion Lannister,,14.4
+3,8,Joffrey Baratheon,,11.6
+3,9,Robb Stark,😭 😢 💔 😫 😩,18.5
+3,9,Arya Stark,,8.4
+3,9,Daenerys Targaryen,,7.2
+3,10,Daenerys Targaryen,👑 🐉 👸 🐲 😭,17.2
+3,10,Joffrey Baratheon,😡,13.3
+3,10,Arya Stark,,8.3
+4,1,Arya Stark,👏 🔪 👌 🙌 😱,25.8
+4,1,Joffrey Baratheon,👑 😒 😡,14.2
+4,1,Sandor Clegane,👌 🙌,10.9
+4,2,Joffrey Baratheon,👏 🙌 👑 😁 🎉,56.9
+4,2,Tyrion Lannister,😭 😔 👍,10.3
+4,2,Cersei Lannister,,3.1
+4,3,Daenerys Targaryen,🙌 🐉 👑 🐲 🔥,20.7
+4,3,Joffrey Baratheon,👏 👑 😁 🙌 🍷,11.3
+4,3,Jaime Lannister,,9
+4,4,White Walkers,😱 👶 😳 💀 😩,13.6
+4,4,Daenerys Targaryen,👑 🐉 🐲 👸 🙌,13.5
+4,4,Jaime Lannister,,7
+4,5,Jon Snow,😭 👌 👏 🙌 😊,15.4
+4,5,Hodor,,10
+4,5,Daenerys Targaryen,🐲 👑 🐉 👌 😁,8.3
+4,6,Tyrion Lannister,👏 😱 👌 🙌 😭,61.4
+4,6,Shae,😡 😭 😱 😩 😠,5.9
+4,6,Daenerys Targaryen,🐲 🐉 👌,4.3
+4,7,Tyrion Lannister,😭 🙌 👏 😢 😩,14.4
+4,7,Petyr Baelish,👏 👌 😱,12.1
+4,7,Daenerys Targaryen,👌 🙌 👑 😏 🐲,9.4
+4,8,Oberyn Martell,😭 😢 😱 😩 💔,25.5
+4,8,Gregor Clegane,🙈 😱 😳 😩 👏,17.5
+4,8,Tyrion Lannister,🌝 😭 😱 😩 😢,13.1
+4,9,Jon Snow,😭 😢 💔 🙏 😩,36.6
+4,9,Ygritte,😭 😢 💔 😩 😔,14.5
+4,9,Night's Watch,,10.3
+4,10,Tyrion Lannister,👏 🙌 😭 😱 😩,22.3
+4,10,Tywin Lannister,😁 👏 💘 😭 💩,12.4
+4,10,Daenerys Targaryen,😭 🐉 😢 💔 😔,8.5
+5,1,Daenerys Targaryen,👊 🐲 🐉 👸 👑,18
+5,1,Tyrion Lannister,😭 🔥 👌 😡 🙌,17.9
+5,1,Jon Snow,🙌 🎶 👏 👌 🔥,15.8
+5,2,Jon Snow,😁 💙 🙌 👏 😀,16.1
+5,2,Daenerys Targaryen,🙌 🙏 🐲 🐉 🔥,13.1
+5,2,Arya Stark,😘 🙌 😅 😱 😁,11.4
+5,3,Sparrows,,16.6
+5,3,Sansa Stark,🍷 😱 😢,15.4
+5,3,Jon Snow,😱 😳 🔪 👌 🔥,11.4
+5,4,Son of the Harpies,,14.2
+5,4,Jon Snow,😱 😳 😒 😡 😭,13.5
+5,4,Daenerys Targaryen,🔥 🐉 🐲 😱,6.8
+5,5,Jon Snow,😘 😉,13.3
+5,5,Daenerys Targaryen,😭 🐉 🔥 🐲 👑,12.2
+5,5,Sansa Stark,,9
+5,6,Sansa Stark,😭 😢 😱 😔 💔,34.6
+5,6,Ramsay Bolton,😡 😠 🎂 😒 😱,13.9
+5,6,Tyrion Lannister,,7.7
+5,7,Cersei Lannister,👏 🙌 😳 😈 😱,23.9
+5,7,Tyrion Lannister,💪 👏 😱,10.8
+5,7,Sansa Stark,😭 😢 😔 😩 🙈,8.1
+5,8,White Walkers,😱 💀 😳 😨 😭,24.1
+5,8,Jon Snow,😱 💀 🔪 😧 😭,22.5
+5,8,Tyrion Lannister,👌,14.9
+5,9,Stannis Baratheon,😭 😡 😱 😢 🔥,30.1
+5,9,Daenerys Targaryen,🐲 🙌 🐉 🔥 😱,20
+5,9,Tyrion Lannister,👌,11
+5,10,Jon Snow,😭 😢 💔 😱 😡,29.1
+5,10,Tyrion Lannister,😰 😢 😭,11.1
+5,10,Melisandre,🙏 😭 😢 👌 🔥,7.5
+6,1,Melisandre,😱 😳 👵 😯 😦,19.2
+6,1,Jon Snow,😭 🙏 💀 🍕 😢,18.9
+6,1,Daenerys Targaryen,🔥 🐲 👑 🐉 😉,12.7
+6,2,Jon Snow,😱 🙌 😭 🔥 👏,44.3
+6,2,Ramsay Bolton,😱 😳 😡 😭 😩,11.9
+6,2,Tyrion Lannister,🐲 🐉 🔥 🍷 👌,10
+6,3,Jon Snow,😱 🙌 👏 😭 👌,29.9
+6,3,Olly,🖕 🎉 👋 😌 🙌,7.5
+6,3,Rickon Stark,😢 😭 😱 😔 💔,6.2
+6,4,Daenerys Targaryen,🔥 🙌 👑 👏 🐉,30.4
+6,4,Jon Snow,😭 🔥 👌 🦄 🌹,13.8
+6,4,Sansa Stark,😭 🙌 🔥 👏 😈,10.6
+6,5,Hodor,😭 😢 💔 😱 😔,44.8
+6,5,Bran Stark,😭 💛 😢 😱 😡,7.6
+6,5,Tyrion Lannister,🍷 💔 😭 🍻,6.5
+6,6,Daenerys Targaryen,🔥 🐉 🐲 🙌 👏,19.5
+6,6,Samwell Tarly,😭 👏 😒 😢 😡,9.3
+6,6,Arya Stark,😬 😱 😭 🙌 💪,8
+6,7,Arya Stark,😭 😱 😢 😰 😩,16.1
+6,7,Lyanna Mormont,🙌 💁 👏 🐻 👑,15.1
+6,7,Sandor Clegane,😱 🐶 🙌 😳 😁,10.3
+6,8,Arya Stark,🙌 👏 💪 🗡 😭,29.6
+6,8,Cersei Lannister,🐉 👑 🔥 😱 😭,6.2
+6,8,Brienne,😭 💔 💜 😢 🐉,5.9
+6,9,Ramsay Bolton,👏 😱 🐶 😭 🙌,20
+6,9,Sansa Stark,👏 🙌 😏 👑 👊,19.9
+6,9,Jon Snow,😭 😱 👏 🙌 🐺,16.3
+6,10,Cersei Lannister,🔥 👏 😱 👑 😎,15.6
+6,10,Jon Snow,😭 👑 🔥 👏 🙌,15
+7,1,Arya Stark,🐺 👏 🙌 👑 😻,29.1
+7,1,Daenerys Targaryen,👑 🐉 🔥 😭 🐲,10.1
+7,1,Samwell Tarly,🤢 💩 😉 😷 😩,7.2
+7,2,Theon Greyjoy,👑 🙄 😭 🐺 🤦,17.1
+7,2,Jon Snow,😭 🙋 👑 👏 😱,13.9
+7,2,Arya Stark,💔 😭 😢 🐺 👧,11.9
+7,3,Olenna Tyrell,👏 🙌 😭 😢 🌹,18.2
+7,3,Jon Snow,🤣 🔥 😭 👍 😁,17.1
+7,3,Daenerys Targaryen,🔥 😞 🙄 🐲 😭,17

@@ -1,0 +1,4 @@
+Sources: 
+https://www.kaggle.com/anderfj/game-of-thrones-series-scripts-breakdowns#got_scripts_breakdown.csv
+https://blog.twitter.com/en_us/topics/insights/2016/game-of-thrones-viz.html
+https://data.world/aendrew/game-of-thrones-screen-times
